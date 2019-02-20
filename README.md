@@ -53,5 +53,7 @@ This will run your Python script every time the Raspberry Pi reboots. If you wan
 ```
 # Things to note
 
+![joystick](/.png)
+
 - The button mapping might need to be changed if you're using a different type of controller (not similar to the one used in this demo)
 
