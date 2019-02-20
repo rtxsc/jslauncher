@@ -12,6 +12,11 @@ Python scripts from inside the launcher script called jslauncher.py in this dire
 # Demo code
 For simple demo, there are 3 python scripts in this directory:
 
+
+- [x] [`jslauncher.py`](jslauncher.py)  
+- [x] [`codeone.py`](codeone.py)  
+- [x] [`codetwo.py`](codetwo.py)  
+
 - jslauncher.py
 - codeone.py
 - codetwo.py
