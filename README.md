@@ -17,9 +17,9 @@ For simple demo, there are 3 python scripts in this directory:
 - [x] [`codeone.py`](codeone.py)  
 - [x] [`codetwo.py`](codetwo.py)  
 
-Use `Select` button to switch between scripts (mode)
-Use `Start` button to run the selected script
-Use `Home` button to return to launcher from within `codeone.py` or `codetwo.py`
+- Use `Select` button to switch between scripts (mode)
+- Use `Start` button to run the selected script
+- Use `Home` button to return to launcher from within `codeone.py` or `codetwo.py`
 
 # How to use ?
 Just run jslauncher by using `Python 2` command
@@ -49,7 +49,7 @@ This will run your Python script every time the Raspberry Pi reboots. If you wan
 ```
 # Things to note
 
-![joystick](/CF542661-D6C5-4A50-9768-753CD4F24E8E.jpg)
+![joystick](https://github.com/rtxsc/jslauncher/blob/master/images/AFCBB5DE-0946-4C01-B2ED-AE3B8B269221.jpeg)
 
 - The button mapping might need to be changed if you're using a different type of controller (not similar to the one used in this demo)
 
