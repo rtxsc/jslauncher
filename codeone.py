@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 # this code will be run by launcher.py
 from time import sleep
 import sys
