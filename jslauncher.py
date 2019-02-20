@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 # simple script to launch multiple python scripts of choice 
 # this script can be run in the background at boot using crontab
 
